@@ -27,10 +27,10 @@ galaxy_info:
   # To view available platforms and versions (or releases), visit:
   # https://galaxy.ansible.com/api/v1/platforms/
   #
-   platforms:
-     - name: Ubuntu
-       versions:
-       - 22.04 # LTS (Jammy Jellyfish)
+  platforms:
+    - name: Ubuntu
+      versions:
+      - 22.04 # LTS (Jammy Jellyfish)
        #- name: SomePlatform
        #versions:
        #- all
